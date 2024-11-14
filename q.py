@@ -8,4 +8,4 @@ vector_b = np.array([4, 7, 7])
 dot_product = np.dot(vector_a, vector_b)
 
 print(f"Dot product: {dot_product}")
-
+hello
